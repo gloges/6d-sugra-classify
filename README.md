@@ -12,5 +12,5 @@ Some notes on implementation:
  - For quaternionic representations free of Witten anomalies H,A,B,C are always even and are divided by two so that nR for these represents the number of half-hypermultiplets. The irrep ID ends with '_h' to indicate it is a half-hypermultiplet.
  - Some vertices are removed by hand:
    - All type-B vertices with $\Delta_i<-29$ (which occur only for exceptional groups)
-   - $\{\mathrm{SU}(2N),\, (2N+8)\times\underline{\mathbf{2N}} + \underline{\mathbf{2N(2N-1)/2}}\}$ when $\mathrm{Sp}(N)$ vertices are present, since it is essentially identical to $\{\mathrm{Sp}(N),\, (2N+8)\times\underline{\mathbf{2N}}\}$
-   - $\{\mathrm{SU}(2N),\, 16\times\underline{\mathbf{2N}} + 2\times\underline{\mathbf{2N(2N-1)/2}}\}$ when $\mathrm{Sp}(N)$ vertices are present, since it is essentially identical to $\{\mathrm{Sp}(N),\, 16\times\underline{\mathbf{2N}} + \underline{\mathbf{(N-1)(2N+1)}}\}$
+   - $\{\mathrm{SU}(2N), (2N+8)\times\underline{\mathbf{2N}} + \underline{\mathbf{2N(2N-1)/2}}\}$ when $\mathrm{Sp}(N)$ vertices are present, since it is essentially identical to $\{\mathrm{Sp}(N), (2N+8)\times\underline{\mathbf{2N}}\}$
+   - $\{\mathrm{SU}(2N), 16\times\underline{\mathbf{2N}} + 2\times\underline{\mathbf{2N(2N-1)/2}}\}$ when $\mathrm{Sp}(N)$ vertices are present, since it is essentially identical to $\{\mathrm{Sp}(N), 16\times\underline{\mathbf{2N}} + \underline{\mathbf{(N-1)(2N+1)}}\}$
