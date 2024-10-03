@@ -4,7 +4,9 @@ Classification of anomaly-free 6D supergravity theories.
 
 A multigraph can be constructed for some choice of simple groups and upper bounds on $\Delta=H_\text{ch}-V$. Vertices represent simple admissible theores and edges represent mergings of the hypermultiplets of the two incident vertices which result in an admissible $k=2$ theory. Admissible theories with $k$ simple factors then correspond to $k$-cliques in the multigraph. Irreducible, admissible $k$-cliques satisfying the bound $\Delta+28n_-^\mathfrak{g} \leq 273$ can be enumerated using a "branch-and-prune" algorithm.
 
-See [[2311.00868](https://arxiv.org/abs/2311.00868)].
+ - Preprint: [[2311.00868](https://arxiv.org/abs/2311.00868)]
+ - Article: [10.1007/JHEP02(2024)095](https://link.springer.com/article/10.1007/JHEP02(2024)095)
+ - Data: [gloges/6d-sugra-data](https://github.com/gloges/6d-sugra-data)
 
 Some notes on implementation:
 
